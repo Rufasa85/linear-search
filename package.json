@@ -1,0 +1,23 @@
+{
+  "name": "linear-search",
+  "version": "1.0.0",
+  "description": "In this activity, you will write code to create a function that takes an array of sorted numbers and a target number and returns the index of the target number in the given array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/linear-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/linear-search/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/linear-search#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
